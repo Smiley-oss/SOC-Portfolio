@@ -39,4 +39,4 @@ Each project follows the same format, see [PROJECT_TEMPLATE.md](PROJECT_TEMPLATE
 - Linux course homework reports.
 
 ## Contact
-Add your name, LinkedIn and email here.
+Ismail Isse, LinkedIn.com/in/ismail-isse-497a15401, ismail.abdilkader.isse@myy.haaga-helia.fi .
